@@ -45,7 +45,7 @@ li:hover {
 	width: 560px;
 	height: 100px;
 	margin: 0 0 0 5px;
-	background-color: #eec3cf;
+	
 }
 
 .logo2 {
@@ -288,7 +288,7 @@ li:hover {
 footer{
 	width: 960px;
 	height: 30px;
-	margin: 500px 0 0 0;
+	margin: 600px 0 0 0;
 	background-color: #F1F1F1;
 	text-align: center;
 	line-height: 30px;
