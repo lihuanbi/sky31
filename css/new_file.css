@@ -7,7 +7,7 @@
 }
 
 body {
-	width: 960px;
+	width: auto;
 	height: 1900px;
 	background: url(../img/2c9b4365ec95697e37b76fb71832ed96.jpg);
 }
@@ -288,7 +288,7 @@ li:hover {
 footer{
 	width: 960px;
 	height: 30px;
-	margin: 500px 0 0 0;
+	margin: 800px 0 0 0;
 	background-color: #F1F1F1;
 	text-align: center;
 	line-height: 30px;
